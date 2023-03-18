@@ -88,7 +88,7 @@
             if (op2 <= tolerance) { isRight2 = true; }
             if (op3 <= tolerance) { isRight2 = true; }
 
-            Console.WriteLine($"Is it a right triangle? {isRight}");
+            Console.WriteLine($"Is it a right triangle? {isRight2}");
             Console.ReadKey();
         }
     }
