@@ -7,7 +7,7 @@
 
             //Set the values for x1, x2 and x3 of all the coordinates points
             Console.WriteLine("Enter the coordinates of the first point:");
-            double x1 = int.Parse(Console.ReadLine());
+            double x1 = double.Parse(Console.ReadLine());
             double y1 = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Enter the coordinates of the second point:");
@@ -61,7 +61,7 @@
             Console.WriteLine("Even numbers from 0 to the perimeter:");
             for (int i = 0; i <= perimeter; i = i + 2)
             {
-                Console.Write(i + " ");
+                Console.WriteLine(i + " ");
             }
 
             //Evaluation of the right triangle with booleans before the tolerance value
