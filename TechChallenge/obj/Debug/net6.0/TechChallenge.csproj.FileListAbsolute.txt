@@ -1,0 +1,15 @@
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\bin\Debug\net6.0\TechChallenge.exe
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\bin\Debug\net6.0\TechChallenge.deps.json
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\bin\Debug\net6.0\TechChallenge.runtimeconfig.json
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\bin\Debug\net6.0\TechChallenge.dll
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\bin\Debug\net6.0\TechChallenge.pdb
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\obj\Debug\net6.0\TechChallenge.csproj.AssemblyReference.cache
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\obj\Debug\net6.0\TechChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\obj\Debug\net6.0\TechChallenge.AssemblyInfoInputs.cache
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\obj\Debug\net6.0\TechChallenge.AssemblyInfo.cs
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\obj\Debug\net6.0\TechChallenge.csproj.CoreCompileInputs.cache
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\obj\Debug\net6.0\TechChallenge.dll
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\obj\Debug\net6.0\refint\TechChallenge.dll
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\obj\Debug\net6.0\TechChallenge.pdb
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\obj\Debug\net6.0\TechChallenge.genruntimeconfig.cache
+C:\Users\JULIAN\Desktop\Programar\Curso CSharp\TechChallenge\TechChallenge\obj\Debug\net6.0\ref\TechChallenge.dll
